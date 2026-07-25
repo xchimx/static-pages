@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.84.1](https://github.com/immich-app/static-pages/compare/ui-v0.84.0...ui-v0.84.1) (2026-07-25)
+
+
+### Bug Fixes
+
+* **ui:** enforce LTR direction for PIN inputs ([#657](https://github.com/immich-app/static-pages/issues/657)) ([bdb85e2](https://github.com/immich-app/static-pages/commit/bdb85e2eeb848dc87fe63220e3a406140fdc4f00))
+
 ## [0.84.0](https://github.com/immich-app/static-pages/compare/ui-v0.83.0...ui-v0.84.0) (2026-07-23)
 
 

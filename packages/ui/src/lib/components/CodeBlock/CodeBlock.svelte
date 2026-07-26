@@ -52,7 +52,7 @@
 <Card class="relative">
   <div class="text-sm">
     {#if canCopy}
-      <span class="absolute top-2 right-2 cursor-pointer">
+      <span class="absolute top-2 right-2 z-10 cursor-pointer">
         <IconButton
           icon={copied ? mdiCheckCircle : mdiContentCopy}
           size="small"
